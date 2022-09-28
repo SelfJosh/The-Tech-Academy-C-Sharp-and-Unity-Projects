@@ -1,0 +1,14 @@
+C:\Users\josh1\source\repos\Daily Report Assignment\Daily Report Assignment\bin\Debug\netcoreapp3.1\Daily Report Assignment.exe
+C:\Users\josh1\source\repos\Daily Report Assignment\Daily Report Assignment\bin\Debug\netcoreapp3.1\Daily Report Assignment.deps.json
+C:\Users\josh1\source\repos\Daily Report Assignment\Daily Report Assignment\bin\Debug\netcoreapp3.1\Daily Report Assignment.runtimeconfig.json
+C:\Users\josh1\source\repos\Daily Report Assignment\Daily Report Assignment\bin\Debug\netcoreapp3.1\Daily Report Assignment.runtimeconfig.dev.json
+C:\Users\josh1\source\repos\Daily Report Assignment\Daily Report Assignment\bin\Debug\netcoreapp3.1\Daily Report Assignment.dll
+C:\Users\josh1\source\repos\Daily Report Assignment\Daily Report Assignment\bin\Debug\netcoreapp3.1\Daily Report Assignment.pdb
+C:\Users\josh1\source\repos\Daily Report Assignment\Daily Report Assignment\obj\Debug\netcoreapp3.1\Daily Report Assignment.csproj.AssemblyReference.cache
+C:\Users\josh1\source\repos\Daily Report Assignment\Daily Report Assignment\obj\Debug\netcoreapp3.1\Daily Report Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josh1\source\repos\Daily Report Assignment\Daily Report Assignment\obj\Debug\netcoreapp3.1\Daily Report Assignment.AssemblyInfoInputs.cache
+C:\Users\josh1\source\repos\Daily Report Assignment\Daily Report Assignment\obj\Debug\netcoreapp3.1\Daily Report Assignment.AssemblyInfo.cs
+C:\Users\josh1\source\repos\Daily Report Assignment\Daily Report Assignment\obj\Debug\netcoreapp3.1\Daily Report Assignment.csproj.CoreCompileInputs.cache
+C:\Users\josh1\source\repos\Daily Report Assignment\Daily Report Assignment\obj\Debug\netcoreapp3.1\Daily Report Assignment.dll
+C:\Users\josh1\source\repos\Daily Report Assignment\Daily Report Assignment\obj\Debug\netcoreapp3.1\Daily Report Assignment.pdb
+C:\Users\josh1\source\repos\Daily Report Assignment\Daily Report Assignment\obj\Debug\netcoreapp3.1\Daily Report Assignment.genruntimeconfig.cache
