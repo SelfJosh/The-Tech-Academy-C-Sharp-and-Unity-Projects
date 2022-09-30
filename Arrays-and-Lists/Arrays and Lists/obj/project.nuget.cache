@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RTfhDrwEFNG2VgoBcLexjI2xObp8qCdFuVKou78HU+QOAF8gTL4pCG1BCphyKgbXlER/nofXrvqZY/fUaDZ1TQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\josh1\\GitHub\\The-Tech-Academy-C-Sharp-and-Unity-Projects\\Arrays-and-Lists\\Arrays and Lists\\Arrays and Lists.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\josh1\\.nuget\\packages\\documentformat.openxml\\2.18.0\\documentformat.openxml.2.18.0.nupkg.sha512",
+    "C:\\Users\\josh1\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
