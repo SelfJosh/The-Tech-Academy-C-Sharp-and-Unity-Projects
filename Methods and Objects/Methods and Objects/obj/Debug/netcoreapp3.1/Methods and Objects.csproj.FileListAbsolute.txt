@@ -1,0 +1,13 @@
+C:\Users\josh1\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Methods and Objects\Methods and Objects\obj\Debug\netcoreapp3.1\Methods and Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josh1\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Methods and Objects\Methods and Objects\obj\Debug\netcoreapp3.1\Methods and Objects.AssemblyInfoInputs.cache
+C:\Users\josh1\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Methods and Objects\Methods and Objects\obj\Debug\netcoreapp3.1\Methods and Objects.AssemblyInfo.cs
+C:\Users\josh1\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Methods and Objects\Methods and Objects\obj\Debug\netcoreapp3.1\Methods and Objects.csproj.CoreCompileInputs.cache
+C:\Users\josh1\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Methods and Objects\Methods and Objects\bin\Debug\netcoreapp3.1\Methods and Objects.exe
+C:\Users\josh1\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Methods and Objects\Methods and Objects\bin\Debug\netcoreapp3.1\Methods and Objects.deps.json
+C:\Users\josh1\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Methods and Objects\Methods and Objects\bin\Debug\netcoreapp3.1\Methods and Objects.runtimeconfig.json
+C:\Users\josh1\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Methods and Objects\Methods and Objects\bin\Debug\netcoreapp3.1\Methods and Objects.runtimeconfig.dev.json
+C:\Users\josh1\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Methods and Objects\Methods and Objects\bin\Debug\netcoreapp3.1\Methods and Objects.dll
+C:\Users\josh1\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Methods and Objects\Methods and Objects\bin\Debug\netcoreapp3.1\Methods and Objects.pdb
+C:\Users\josh1\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Methods and Objects\Methods and Objects\obj\Debug\netcoreapp3.1\Methods and Objects.dll
+C:\Users\josh1\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Methods and Objects\Methods and Objects\obj\Debug\netcoreapp3.1\Methods and Objects.pdb
+C:\Users\josh1\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Methods and Objects\Methods and Objects\obj\Debug\netcoreapp3.1\Methods and Objects.genruntimeconfig.cache
