@@ -13,7 +13,7 @@ namespace Method_Class
             int num2 = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("\nHere are the results:");
-            MethodClass.VoidMethod(num1, num2);
+            MethodClass.VoidMethod(int1: num1, int2: num2);
         }
     }
 }

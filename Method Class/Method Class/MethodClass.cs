@@ -6,10 +6,11 @@ namespace Method_Class
 {
     public class MethodClass
     {
-        public static void VoidMethod(int x, int y)
+        public static void VoidMethod(int int1, int int2)
         {
-            Console.WriteLine((x * 15) / 5);
-            Console.WriteLine(y);
+            int1 = (int1 * 15) + 7;
+            Console.WriteLine("{0}", int1);
+            Console.WriteLine("{0}", int2);
         }
     }
 }
